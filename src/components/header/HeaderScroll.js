@@ -11,7 +11,7 @@ const HeaderScroll = () => {
         target="_blank"
         rel="noreferrer"
       >
-        {" "}
+     
         <BsLinkedin />
       </a>
       <a
@@ -19,7 +19,7 @@ const HeaderScroll = () => {
         target="_blank"
         rel="noreferrer"
       >
-        {" "}
+      
         <SiNetlify />
       </a>
       <a
@@ -27,7 +27,6 @@ const HeaderScroll = () => {
         target="_blank"
         rel="noreferrer"
       >
-        {" "}
         <BsGithub />
       </a>
     </div>
