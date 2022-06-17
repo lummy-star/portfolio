@@ -23,7 +23,7 @@ const HeaderScroll = () => {
         <SiNetlify />
       </a>
       <a
-        href="https://github.com/lummy-star/lummy-store"
+        href="https://github.com/lummy-star"
         target="_blank"
         rel="noreferrer"
       >

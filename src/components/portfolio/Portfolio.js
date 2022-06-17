@@ -1,9 +1,11 @@
 import React from 'react'
 import AIRBNB from '../../assets/airbnb.png'
 import ALAN from '../../assets/ALan-Api.png'
-import Avatar from '../../assets/avatar.png'
+// import Avatar from '../../assets/avatar.png'
 import TWITTER from '../../assets/Twitter-Clone.png'
 import ECOMMERCE from '../../assets/my-Ecommerce.png'
+import YOUTUBE from '../../assets/youtube.png'
+import TOURS from '../../assets/tours.png'
 import './portfolio.css'
 
 const Portfolio = () => {
@@ -22,7 +24,7 @@ const Portfolio = () => {
               href="https://lummynewsapp.netlify.app"
               className="btn"
               target="_blank"
-              rel="noopener"
+              rel="noreferrer"
             >
               Netlify
             </a>
@@ -30,7 +32,7 @@ const Portfolio = () => {
               href="https://dribble.com/Allien_pixel"
               className="btn btn-primary"
               target="_blank"
-              rel="noopener"
+              rel="noreferrer"
             >
               live Demo
             </a>
@@ -41,13 +43,13 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={AIRBNB} alt="post" />
           </div>
-          <h3>This is portfolio</h3>
+          <h3>This is my portfolio</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://air-bnbclonee.netlify.app"
               className="btn"
               target="_blank"
-              rel="noopener"
+              rel="noreferrer"
             >
               Netlify
             </a>
@@ -55,7 +57,7 @@ const Portfolio = () => {
               href="https://dribble.com/Allien_pixel"
               className="btn btn-primary"
               target="_blank"
-              rel="noopener"
+              rel="noreferrer"
             >
               live Demo
             </a>
@@ -66,13 +68,13 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={ECOMMERCE} alt="post" />
           </div>
-          <h3>This is portfolio</h3>
+          <h3>This is my portfolio</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://lummy-store.netlify.app"
               className="btn"
               target="_blank"
-              rel="noopener"
+              rel="noreferrer"
             >
               Netlify
             </a>
@@ -80,7 +82,7 @@ const Portfolio = () => {
               href="https://dribble.com/Allien_pixel"
               className="btn btn-primary"
               target="_blank"
-              rel="noopener"
+              rel="noreferrer"
             >
               live Demo
             </a>
@@ -91,13 +93,13 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={TWITTER} alt="post" />
           </div>
-          <h3>This is portfolio</h3>
+          <h3>This is my portfolio</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://twitter-cloneee.netlify.app"
               className="btn"
               target="_blank"
-              rel="noopener"
+              rel="noreferrer"
             >
               Netlify
             </a>
@@ -105,7 +107,7 @@ const Portfolio = () => {
               href="https://dribble.com/Allien_pixel"
               className="btn btn-primary"
               target="_blank"
-              rel="noopener"
+              rel="noreferrer"
             >
               live Demo
             </a>
@@ -114,23 +116,23 @@ const Portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={Avatar} alt="post" />
+            <img src={YOUTUBE} alt="post" />
           </div>
-          <h3>This is portfolio</h3>
+          <h3>This is my portfolio</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://lummy-store.netlify.app"
+              href="https://youutuube.netlify.app/"
               className="btn"
               target="_blank"
-              rel="noopener"
+              rel="noreferrer"
             >
               Netlify
             </a>
             <a
-              href="https://dribble.com/Allien_pixel"
+              href="#https://youutuube.netlify.app/"
               className="btn btn-primary"
               target="_blank"
-              rel="noopener"
+              rel="noreferrer"
             >
               live Demo
             </a>
@@ -139,23 +141,23 @@ const Portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={Avatar} alt="post" />
+            <img src={TOURS} alt="post" />
           </div>
-          <h3>This is portfolio</h3>
+          <h3>This is my portfolio</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://lummy-store.netlify.app"
+              href="https://my-tourguide.netlify.app/"
               className="btn"
               target="_blank"
-              rel="noopener"
+              rel="noreferrer"
             >
               Netlify
             </a>
             <a
-              href="https://dribble.com/Allien_pixel"
+              href="https://my-tourguide.netlify.app/"
               className="btn btn-primary"
               target="_blank"
-              rel="noopener"
+              rel="noreferrer"
             >
               live Demo
             </a>
